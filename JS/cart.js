@@ -1,10 +1,10 @@
 // Sample products array to represent cart items
 let cartItems = [
-    { name: "Lindt Lindor Assorted Chocolate Gift Box", price: 47.95, quantity: 1, image: "PICTURES/Products/Featured Products/Lindt Lindor.jpg" },
-    { name: "Holiday Cheer Mug Set", price: 28.75, quantity: 1, image: "PICTURES/Products/Featured Products/Mug Set.jpg" },
-    { name: "Disney Stitch Christmas Women’s T-Shirt", price: 50.00, quantity: 1, image: "PICTURES/Products/New Arrivals/Stitch.jpg" },
-    { name: "Wooden Christmas Nutcracker Soldiers (Set of 2)", price: 80.00, quantity: 1, image: "PICTURES/Products/New Arrivals/Nutcrackers.jpg" },
-    { name: "Barnetts Christmas Cookie Gift Box", price: 132.15, quantity: 1, image: "PICTURES/Products/New Arrivals/Barnetts.jpg" }
+    { name: "Lindt Lindor Assorted Chocolate Gift Box", price: 47.95, quantity: 1, image: "../PICTURES/Products/Featured Products/Lindt Lindor.jpg" },
+    { name: "Holiday Cheer Mug Set", price: 28.75, quantity: 1, image: "../PICTURES/Products/Featured Products/Mug Set.jpg" },
+    { name: "Disney Stitch Christmas Women’s T-Shirt", price: 50.00, quantity: 1, image: "../PICTURES/Products/New Arrivals/Stitch.jpg" },
+    { name: "Wooden Christmas Nutcracker Soldiers (Set of 2)", price: 80.00, quantity: 1, image: "../PICTURES/Products/New Arrivals/Nutcrackers.jpg" },
+    { name: "Barnetts Christmas Cookie Gift Box", price: 132.15, quantity: 1, image: "../PICTURES/Products/New Arrivals/Barnetts.jpg" }
 ];
 
 // Function to render the cart items as table rows
