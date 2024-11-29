@@ -117,7 +117,7 @@ p {
 /* Slider */
 
 #slider {
-    background-image: url(./PICTURES/Slider/Slider\ 1.jpg);
+    background-image: url(../PICTURES/Slider/Slider\ 1.jpg);
     background-size: cover;
     background-position: top 25% right 0;
     color: #FFFFFF;
@@ -754,7 +754,7 @@ footer .copyright {
 /* Shop Heading Banner */
 
 #shop-header {
-    background-image: url(./PICTURES/Banner/Banner\ 7.jpg);
+    background-image: url(../PICTURES/Banner/Banner\ 7.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -911,7 +911,7 @@ footer .copyright {
 /* Blog Heading Banner */
 
 #blog-header {
-    background-image: url(./PICTURES/Banner/Banner\ 8.jpg);
+    background-image: url(../PICTURES/Banner/Banner\ 8.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -1036,7 +1036,7 @@ footer .copyright {
 /* About Heading Banner */
 
 #about-header {
-    background-image: url(./PICTURES/Banner/Banner\ 9.jpg);
+    background-image: url(../PICTURES/Banner/Banner\ 9.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -1137,7 +1137,7 @@ footer .copyright {
 /* Contact Heading Banner */
 
 #contact-header {
-    background-image: url(./PICTURES/Banner/Banner\ 10.jpg);
+    background-image: url(../PICTURES/Banner/Banner\ 10.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -1369,7 +1369,7 @@ footer .copyright {
 /* Cart Heading Banner */
 
 #cart-header {
-    background-image: url(./PICTURES/Banner/Banner\ 11.jpg);
+    background-image: url(../PICTURES/Banner/Banner\ 11.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
